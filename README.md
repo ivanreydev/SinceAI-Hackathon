@@ -2,9 +2,9 @@
 
 **SINCE AI HACKATHON 2026**
 
-**UNZIP THE ZIP FILES AND ADD THE SERVER_and_Client to Hackathon**
-**UNZIP THE ZIP FILES AND ADD THE SERVER_and_Client to Hackathon**
-**UNZIP THE ZIP FILES AND ADD THE SERVER_and_Client to Hackathon**
+**UNZIP THE ZIP FILES AND ADD THE SERVER_and_Client to Hackathon-->Hackathon2**
+**UNZIP THE ZIP FILES AND ADD THE SERVER_and_Client to Hackathon-->Hackathon2**
+**UNZIP THE ZIP FILES AND ADD THE SERVER_and_Client to Hackathon-->Hackathon2**
 
 
 **Team name:** A-stars
